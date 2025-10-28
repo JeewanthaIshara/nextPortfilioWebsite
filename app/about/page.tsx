@@ -31,6 +31,10 @@ export default function AboutPage() {
           <h1 className="text-5xl md:text-6xl font-extrabold mb-4 drop-shadow-2xl">
             About <span className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-200 to-pink-200 dark:from-yellow-400 dark:to-pink-400">Me</span>
           </h1>
+
+          <p className="text-sm text-white/75 dark:text-gray-300 mb-4">
+            It's my portfolio
+          </p>
           <p className="text-xl text-white/90 dark:text-gray-200 max-w-2xl mx-auto">
             A passionate web developer dedicated to crafting beautiful, functional, and user-friendly digital experiences.
           </p>
